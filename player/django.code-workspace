@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../k8s/EricsK8Book"
+		}
+	],
+	"settings": {
+		"makefile.extensionOutputFolder": "./.vscode"
+	}
+}
